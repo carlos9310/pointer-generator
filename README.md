@@ -1,4 +1,4 @@
-# pointer-generator
+# Organized resources for [Get To The Point: Summarization with Pointer-Generator Networks](https://arxiv.org/abs/1704.04368) with python3.x
 
 ## DataSet
 参考[https://github.com/abisee/cnn-dailymail](https://github.com/abisee/cnn-dailymail)
