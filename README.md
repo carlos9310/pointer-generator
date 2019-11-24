@@ -15,7 +15,6 @@ command for Data preprocessing
 python data/make_datafiles.py /path/to/unzipped/cnn_stories.tgz /path/to/unzipped/dailymail_stories.tgz
 ```
 
-- 
 
 ## Code with python3
 参考[https://github.com/abisee/pointer-generator](https://github.com/abisee/pointer-generator)
