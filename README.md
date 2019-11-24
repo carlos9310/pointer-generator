@@ -3,9 +3,11 @@
 ## DataSet
 参考[https://github.com/abisee/cnn-dailymail](https://github.com/abisee/cnn-dailymail)
 
-[cnn_stories.tgz](https://pan.baidu.com/s/13SDS_UwoRKP6jF1NjRlUCg)
+raw corpus 
 
-[dailymail_stories.tgz](https://pan.baidu.com/s/1bJTG90Wr_KUmZa4d_GeAeA)
+- [cnn_stories.tgz](https://pan.baidu.com/s/13SDS_UwoRKP6jF1NjRlUCg)
+
+- [dailymail_stories.tgz](https://pan.baidu.com/s/1bJTG90Wr_KUmZa4d_GeAeA)
 
 
 command for Data preprocessing
@@ -13,4 +15,11 @@ command for Data preprocessing
 python data/make_datafiles.py /path/to/unzipped/cnn_stories.tgz /path/to/unzipped/dailymail_stories.tgz
 ```
 
+- 
+
 ## Code with python3
+参考[https://github.com/abisee/pointer-generator](https://github.com/abisee/pointer-generator)
+
+
+
+
